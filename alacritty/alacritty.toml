@@ -1,5 +1,6 @@
+#general.import = ["inferno.toml"]
 [window]
-opacity = 0.9
+opacity = 0.4
 dynamic_title = false
 [font]
 normal = {family = "Jetbrains Mono"}
